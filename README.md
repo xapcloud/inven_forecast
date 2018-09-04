@@ -2,3 +2,7 @@
 
 
 TEST
+
+echo ''
+
+TEST
